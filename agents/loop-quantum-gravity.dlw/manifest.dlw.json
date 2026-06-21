@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Loop Quantum Gravity",
+  "universe": "GRN · Loop Quantum Gravity (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦Loop Quantum Gravity:GRN:ba6c5b⟧",
+  "carbon": "loop-quantum-gravity.carbon.tiff (TIFF)",
+  "silicon": "loop-quantum-gravity.silicon.png (PNG)",
+  "seal_sha256": "3ef354d93e95d861af99942337339a5c19d4cf382ce8479c1d0e686baf78261f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Grain",
+  "universe": "GRN · The Grain (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Grain:GRN:95e3ba⟧",
+  "carbon": "the-grain.carbon.tiff (TIFF)",
+  "silicon": "the-grain.silicon.png (PNG)",
+  "seal_sha256": "6d0f97f17108b39cbc9135dc9b78cefc73993e073ae3de693e80379540bb2c62",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

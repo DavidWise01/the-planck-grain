@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Pixel",
+  "universe": "GRN · The Pixel (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Pixel:GRN:589665⟧",
+  "carbon": "the-pixel.carbon.tiff (TIFF)",
+  "silicon": "the-pixel.silicon.png (PNG)",
+  "seal_sha256": "9104ed85c2cd73a18e6adab30b1dfab8b70683ec1a0f0116c33eaefb24899a93",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
