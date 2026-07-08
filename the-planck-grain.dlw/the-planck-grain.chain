@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 570
+slug  : the-planck-grain
+seal  : 5dbcdd1c4d6ec8572f398f929cafc17c4aa37bc743d85dff7ae3bb03d587b53a
+prev  : 8b9f0090df66f2d14a9764ecdf24955faf788fbbb606f280abfe92fa59a8257b
+link  : 8b3ad2866e3352520a48efe6543fcfeacd2bce342e3d32a7f06f78c15b5e4bdb
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
